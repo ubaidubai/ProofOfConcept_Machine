@@ -1,4 +1,7 @@
-<model-viewer src="UMMON_AR_test9.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="1" autoplay animation-name="Ummon_armature|Ummon_armature|idle1" environment-image="aircraft_workshop_01_1k.hdr" camera-orbit="11.05deg 79.34deg 2.045m" field-of-view="30deg">
+<model-viewer src="UMMON_AR_test24.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="1" autoplay environment-image="aircraft_workshop_01_1k.hdr" camera-orbit="-3.163deg 78.56deg 2.045m" field-of-view="30deg">
+    <button class="Hotspot" slot="hotspot-2" data-surface="15 0 6241 6243 6774 0.051 0.329 0.619" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">the cool thing about these guys is they love standing in place and doing absolutely nothing!</div>
+    </button>
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
     </div>
